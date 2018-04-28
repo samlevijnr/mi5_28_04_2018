@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Espionage_Run" parallel="false">
+  <test name="Espionage_HomePage">
+    <classes>
+      <class name="uk.gov.mi5.tests.Epionage_HomePgae_test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

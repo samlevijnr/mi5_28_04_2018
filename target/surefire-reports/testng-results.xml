@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Espionage_Run" duration-ms="37590" started-at="2018-04-28T11:31:12Z" finished-at="2018-04-28T11:31:49Z">
+    <groups>
+    </groups>
+    <test name="Espionage_HomePage" duration-ms="37590" started-at="2018-04-28T11:31:12Z" finished-at="2018-04-28T11:31:49Z">
+      <class name="uk.gov.mi5.tests.Epionage_HomePgae_test">
+        <test-method status="PASS" signature="initiate()[pri:0, instance:uk.gov.mi5.tests.Epionage_HomePgae_test@73f792cf]" name="initiate" is-config="true" duration-ms="25511" started-at="2018-04-28T12:31:12Z" finished-at="2018-04-28T12:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiate -->
+        <test-method status="PASS" signature="epionage_HomePage()[pri:0, instance:uk.gov.mi5.tests.Epionage_HomePgae_test@73f792cf]" name="epionage_HomePage" duration-ms="4481" started-at="2018-04-28T12:31:37Z" finished-at="2018-04-28T12:31:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- epionage_HomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:uk.gov.mi5.tests.Epionage_HomePgae_test@73f792cf]" name="tearDown" is-config="true" duration-ms="5292" started-at="2018-04-28T12:31:42Z" finished-at="2018-04-28T12:31:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="notification()[pri:0, instance:uk.gov.mi5.tests.Epionage_HomePgae_test@73f792cf]" name="notification" is-config="true" duration-ms="2270" started-at="2018-04-28T12:31:47Z" finished-at="2018-04-28T12:31:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notification -->
+      </class> <!-- uk.gov.mi5.tests.Epionage_HomePgae_test -->
+    </test> <!-- Espionage_HomePage -->
+  </suite> <!-- Espionage_Run -->
+</testng-results>
